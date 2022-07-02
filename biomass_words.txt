@@ -1,0 +1,200 @@
+id	label
+1	ac impedance spectroscopy
+2	activated carbon
+3	adsorption desorption isotherms
+4	alkaline metal
+5	all-solid state
+6	alternative energy
+7	aluminum (compounds)
+8	amorphous carbon
+9	anodes
+10	antimony
+11	application prospect
+12	atmospheric temperature
+13	bagasse
+14	bauhinia
+15	biochar
+16	bioenergy
+17	biofuel
+18	biogenic material
+19	biomass
+20	biomass carbon fuel
+21	biomass high power density
+22	biomass integrated gasification
+23	boudouard reaction
+24	calcium
+25	camellia oleifera
+26	carbon
+27	carbon and hydrogens
+28	carbon catalytic gasification
+29	carbon dioxide/monoxide
+30	carbon fuel
+31	carbon storage
+32	carbonization
+33	catalyst
+34	catalytic gasification
+35	catalytic oxidation
+36	cell configurations
+37	cell performance
+38	cell stack
+39	cell/b.e
+40	cerium compounds
+41	charcoal
+42	chemical analysis
+43	chemical reaction
+44	chinese parasol tree leaf
+45	cigarette filters
+46	citrus fruits
+47	coal
+48	coal industry
+49	coal storage
+50	coconut char
+51	cogeneration plants
+52	comparative study
+53	constant current density
+54	constant-current discharge
+55	contact interface
+56	conversion efficiency
+57	copper
+58	corn cob
+59	cost effectiveness
+60	crop residue
+61	cu nano-particles
+62	design method
+63	detection method
+64	differential scanning calorimetry
+65	direct carbon fuel
+66	direct carbon fuel cell
+67	direct carbon solid oxide fuel cell
+68	discharge mode
+69	disordered carbon
+70	efficiency
+71	electric discharges
+72	electrical conversion efficiencies
+73	electricity cogeneration
+74	electricity generation
+75	electrochemistry
+76	electrode
+77	electrolyte
+78	electrolyte plate
+79	electron diffraction apparatus
+80	electrooxidation
+81	element contents
+82	energy
+83	energy conversion
+84	energy dispersive spectrometers
+85	energy efficiency
+86	energy planning
+87	energy storage;
+88	fe catalyst
+89	feedstocks
+90	fossil energy
+91	fourier transform infrared spectroscopy
+92	fuel
+93	fuel treating temperature
+94	fuel utilization
+95	gadolinium and gadolinium compounds
+96	gallium compounds
+97	gas chromatography
+98	gas fuel purification
+99	gas generators
+100	gas??electricity cogeneration
+101	gasification
+102	global warming
+103	gravimetric analysis
+104	green manufacturing
+105	high cell performance
+106	high conversion efficiency
+107	high energy densities
+108	high power density
+109	high temperature
+110	high water content
+111	hydrogen
+112	hydrothermal reaction
+113	in situ pyrolysis
+114	increased temperature
+115	industrial by-products
+116	instrumentation
+117	iron and iron compounds
+118	isometric particles
+119	juglans
+120	kelp biochar
+121	lanthanum compounds
+122	liquid medium
+123	magnesium compounds
+124	maize
+125	marine biomass
+126	measurements
+127	mesoporous structure
+128	metal ions
+129	microstructure
+130	microtubular
+131	molten antimony anode
+132	natural catalyst
+133	new energy industries
+134	nuclear fuel
+135	nut
+136	open-circuit voltage
+137	operating mechanism
+138	operations technology
+139	oxidation
+140	oxide
+141	particle size
+142	pepper straw
+143	perovskite
+144	physicochemical properties
+145	pistachio shell
+146	plants (botany)
+147	porous structure
+148	potential technologies
+149	processing
+150	pyrolysis
+151	reactions
+152	reactor shielding
+153	renewable resource
+154	reversible capacity
+155	rice husk
+156	scanning electron microscopy
+157	seals
+158	shell
+159	silver and silver compounds
+160	simple structure
+161	sintering
+162	sintering process
+163	sodium-ion batteries
+164	solid
+165	solid electrolyte
+166	solid fuel
+167	solid oxide fuel cell
+168	solid state devices
+169	solid waste
+170	specific surface area
+171	spectrometers
+172	stabilities
+173	straw
+174	strontium compounds
+175	sulfur
+176	surface functionalities
+177	symmetrical electrode
+178	technological development
+179	temperature
+180	thermogravimetry
+181	tobacco
+182	treating temperature
+183	tree leaf
+184	triticum aestivum
+185	tubular
+186	tubular solid oxide fuel cell
+187	tungsten alloys
+188	walnut shell
+189	waste biomass
+190	waste disposal
+191	waste technology
+192	wheat straw
+193	wood fuel
+194	wood pyrolysis
+195	wood waste products
+196	x-ray diffraction
+197	yttrium and yttrium compounds
+198	zea mays
+199	zirconia
