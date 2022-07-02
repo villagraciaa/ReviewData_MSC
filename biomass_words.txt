@@ -10,7 +10,7 @@ id	label
 9	anodes
 10	antimony
 11	application prospect
-12	atmospheric temperature
+12	atmospheric high temperature
 13	bagasse
 14	bauhinia
 15	biochar
@@ -19,182 +19,170 @@ id	label
 18	biogenic material
 19	biomass
 20	biomass carbon fuel
-21	biomass high power density
-22	biomass integrated gasification
-23	boudouard reaction
-24	calcium
-25	camellia oleifera
-26	carbon
-27	carbon and hydrogens
-28	carbon catalytic gasification
-29	carbon dioxide/monoxide
-30	carbon fuel
-31	carbon storage
-32	carbonization
-33	catalyst
-34	catalytic gasification
-35	catalytic oxidation
-36	cell configurations
-37	cell performance
-38	cell stack
-39	cell/b.e
-40	cerium compounds
-41	charcoal
-42	chemical analysis
-43	chemical reaction
-44	chinese parasol tree leaf
-45	cigarette filters
-46	citrus fruits
-47	coal
-48	coal industry
-49	coal storage
-50	coconut char
-51	cogeneration plants
-52	comparative study
-53	constant current density
-54	constant-current discharge
-55	contact interface
-56	conversion efficiency
-57	copper
-58	corn cob
-59	cost effectiveness
-60	crop residue
-61	cu nano-particles
-62	design method
-63	detection method
-64	differential scanning calorimetry
-65	direct carbon fuel
-66	direct carbon fuel cell
-67	direct carbon solid oxide fuel cell
-68	discharge mode
-69	disordered carbon
-70	efficiency
-71	electric discharges
-72	electrical conversion efficiencies
-73	electricity cogeneration
-74	electricity generation
-75	electrochemistry
-76	electrode
-77	electrolyte
-78	electrolyte plate
-79	electron diffraction apparatus
-80	electrooxidation
-81	element contents
-82	energy
-83	energy conversion
-84	energy dispersive spectrometers
-85	energy efficiency
-86	energy planning
-87	energy storage;
-88	fe catalyst
-89	feedstocks
-90	fossil energy
-91	fourier transform infrared spectroscopy
-92	fuel
-93	fuel treating temperature
-94	fuel utilization
-95	gadolinium and gadolinium compounds
-96	gallium compounds
-97	gas chromatography
-98	gas fuel purification
-99	gas generators
-100	gas??electricity cogeneration
-101	gasification
-102	global warming
-103	gravimetric analysis
-104	green manufacturing
-105	high cell performance
-106	high conversion efficiency
-107	high energy densities
-108	high power density
-109	high temperature
-110	high water content
-111	hydrogen
-112	hydrothermal reaction
-113	in situ pyrolysis
-114	increased temperature
-115	industrial by-products
-116	instrumentation
-117	iron and iron compounds
-118	isometric particles
-119	juglans
-120	kelp biochar
-121	lanthanum compounds
-122	liquid medium
-123	magnesium compounds
-124	maize
-125	marine biomass
-126	measurements
-127	mesoporous structure
-128	metal ions
-129	microstructure
-130	microtubular
-131	molten antimony anode
-132	natural catalyst
-133	new energy industries
-134	nuclear fuel
-135	nut
-136	open-circuit voltage
-137	operating mechanism
-138	operations technology
-139	oxidation
-140	oxide
-141	particle size
-142	pepper straw
-143	perovskite
-144	physicochemical properties
-145	pistachio shell
-146	plants (botany)
-147	porous structure
-148	potential technologies
-149	processing
-150	pyrolysis
-151	reactions
-152	reactor shielding
-153	renewable resource
-154	reversible capacity
-155	rice husk
-156	scanning electron microscopy
-157	seals
-158	shell
-159	silver and silver compounds
-160	simple structure
-161	sintering
-162	sintering process
-163	sodium-ion batteries
-164	solid
-165	solid electrolyte
-166	solid fuel
-167	solid oxide fuel cell
-168	solid state devices
-169	solid waste
-170	specific surface area
-171	spectrometers
-172	stabilities
-173	straw
-174	strontium compounds
-175	sulfur
-176	surface functionalities
-177	symmetrical electrode
-178	technological development
-179	temperature
-180	thermogravimetry
-181	tobacco
-182	treating temperature
-183	tree leaf
-184	triticum aestivum
-185	tubular
-186	tubular solid oxide fuel cell
-187	tungsten alloys
-188	walnut shell
-189	waste biomass
-190	waste disposal
-191	waste technology
-192	wheat straw
-193	wood fuel
-194	wood pyrolysis
-195	wood waste products
-196	x-ray diffraction
-197	yttrium and yttrium compounds
-198	zea mays
-199	zirconia
+21	biomass integrated gasification
+22	boudouard reaction
+23	calcium
+24	camellia oleifera
+25	carbon
+26	carbon and hydrogens
+27	carbon catalytic gasification
+28	carbon dioxide/monoxide
+29	carbon storage
+30	carbonization
+31	catalyst
+32	catalytic gasification
+33	catalytic oxidation
+34	cell configurations
+35	cell stack
+36	cell/b.e
+37	cerium compounds
+38	charcoal
+39	chemical analysis
+40	chemical reaction
+41	chinese parasol tree leaf
+42	cigarette filters
+43	citrus fruits
+44	coal
+45	coal industry
+46	coal storage
+47	coconut char
+48	cogeneration plants
+49	comparative study
+50	constant current density
+51	constant-current discharge
+52	contact interface
+53	copper
+54	corn cob
+55	cost effectiveness
+56	crop residue
+57	cu nano-particles
+58	design method
+59	detection method
+60	differential scanning calorimetry
+61	direct biomass carbon fuel
+62	direct biomass carbon fuel cell
+63	direct carbon solid oxide fuel cell
+64	discharge mode
+65	disordered carbon
+66	efficiency
+67	electric discharges
+68	electrical conversion efficiencies
+69	electricity cogeneration
+70	electricity generation
+71	electrochemistry
+72	electrode
+73	electrolyte
+74	electrolyte plate
+75	electron diffraction apparatus
+76	electrooxidation
+77	element contents
+78	energy
+79	energy dispersive spectrometers
+80	energy planning
+81	energy storage;
+82	fe catalyst
+83	feedstocks
+84	fourier transform infrared spectroscopy
+85	fuel
+86	fuel utilization
+87	gadolinium (compounds)
+88	gallium compounds
+89	gas chromatography
+90	gas fuel purification
+91	gas generators
+92	gas?鉚electricity cogeneration
+93	gasification
+94	global warming
+95	gravimetric analysis
+96	green manufacturing
+97	high cell performance
+98	high energy densities
+99	high power density
+100	high temperature
+101	high water content
+102	hydrogen
+103	hydrothermal reaction
+104	in situ pyrolysis
+105	increased high temperature
+106	industrial by-products
+107	instrumentation
+108	iron and iron compounds
+109	isometric particles
+110	juglans
+111	kelp biochar
+112	lanthanum compounds
+113	liquid medium
+114	magnesium compounds
+115	maize
+116	marine biomass
+117	measurements
+118	mesoporous structure
+119	metal ions
+120	microstructure
+121	microtubular
+122	molten antimony anode
+123	natural catalyst
+124	new energy industries
+125	nuclear fuel
+126	nut
+127	open-circuit voltage
+128	operating mechanism
+129	operations technology
+130	oxidation
+131	oxide
+132	particle size
+133	pepper straw
+134	perovskite
+135	physicochemical properties
+136	pistachio shell
+137	plants (botany)
+138	porous structure
+139	potential technologies
+140	processing
+141	pyrolysis
+142	reactions
+143	reactor shielding
+144	renewable resource
+145	reversible capacity
+146	rice husk
+147	scanning electron microscopy
+148	seals
+149	shell
+150	silver (compounds)
+151	simple structure
+152	sintering
+153	sintering process
+154	sodium-ion batteries
+155	solid
+156	solid electrolyte
+157	solid fuel
+158	solid oxide fuel cell
+159	solid state devices
+160	specific surface area
+161	spectrometers
+162	stabilities
+163	straw
+164	strontium compounds
+165	sulfur
+166	surface functionalities
+167	symmetrical electrode
+168	technological development
+169	thermogravimetry
+170	tobacco
+171	treating high temperature
+172	tree leaf
+173	triticum aestivum
+174	tubular
+175	tubular solid oxide fuel cell
+176	tungsten alloys
+177	walnut shell
+178	waste
+179	waste disposal
+180	waste technology
+181	wheat straw
+182	wood fuel
+183	wood pyrolysis
+184	x-ray diffraction
+185	yttrium and yttrium compounds
+186	zea mays
+187	zirconia
